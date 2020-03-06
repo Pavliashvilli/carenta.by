@@ -8,12 +8,11 @@ How to setup this project:
  ### Features
 * Pick a date and time of rent 
 * Autorization 
-* Add new task
-* Mark task as completed / uncompleted
-* Browse the list of done/undone tasks
-* Edit task
-* Delete single task
-* Delete completed tasks
+* leave feedback
+* Personal Area
+* Rental History
+* Complete car information
+* Newsletter
 
 ### Technologies used:
 * Php >= 7.2
