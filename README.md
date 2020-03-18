@@ -22,3 +22,15 @@ How to setup this project:
 * Apache 2.4
 * MySQL 5.6
 * JS 
+### Imagens:
+![Заглавная пикча](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Glav_screen.png)
+![Заглавная пикча_2](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Glav_screen2.png)
+![Заглавная пикча_3](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Glav_screen3png.png)
+![Логин](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Login.png)
+![Регистрация](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Registry.png)
+![Восстановить пароль](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Uppload_password.png)
+![Каталог](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Katalog.png)
+![Авто](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Avto.png)
+![Профиль](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Profile.png)
+![Настройки профиля](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Setting_profile.png)
+![БД](https://github.com/Pavliashvilli/carenta.by/blob/master/carrental/admin/img/Screen_preview/Php_myadmin.png)
